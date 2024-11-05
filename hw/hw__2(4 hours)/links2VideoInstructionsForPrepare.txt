@@ -1,0 +1,11 @@
+Встановлення Apache Tomcat 9:
+https://www.youtube.com/watch?v=zAtwrf81pQ4 .
+
+Встановлення MySQL:
+https://www.youtube.com/watch?v=u96rVINbAUI .
+
+Встановлення ODBC drivers для MySql:
+https://www.youtube.com/watch?v=UD3GsVf6_Ok .
+
+jdbc(потрібно добавити mysql-connector(jar-файл) у теку "\Apache Software Foundation\Tomcat 9.0\lib"):
+https://youtu.be/Hsrl4kxK2Ro?t=115 .
